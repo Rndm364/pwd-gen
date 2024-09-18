@@ -1,0 +1,22 @@
+{
+  "name": "@rndm364/pwd-gen",
+  "version": "0.0.3",
+  "description": "Simple password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rndm364/pwd-gen.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Dominik Simmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rndm364/pwd-gen/issues"
+  },
+  "homepage": "https://github.com/Rndm364/pwd-gen#readme"
+}
